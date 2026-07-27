@@ -12,6 +12,8 @@ Install mods, manage your mod collection, and extend the game with community-cre
 
 ## ✨ Features
 
+![modd](Data/generic/mod.png)
+
 ### For Players
 
 * 📦 Automatic mod discovery
